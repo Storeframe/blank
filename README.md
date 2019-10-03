@@ -1,1 +1,2 @@
 StoreFrame Blank
+Install Success
